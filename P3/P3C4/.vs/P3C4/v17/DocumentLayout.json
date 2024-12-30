@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFEC14-614D-422D-9EB2-BA1672C409DD}|P3C4.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABFEC14-614D-422D-9EB2-BA1672C409DD}|P3C4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFEC14-614D-422D-9EB2-BA1672C409DD}|P3C4.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c4\\p3c4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CABFEC14-614D-422D-9EB2-BA1672C409DD}|P3C4.csproj|solutionrelative:p3c4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C96BB1-98CD-4060-AEDC-3B3AD0F1803C}|..\\P3C4.Tests\\P3C4.Tests.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c4.tests\\p3c4.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C96BB1-98CD-4060-AEDC-3B3AD0F1803C}|..\\P3C4.Tests\\P3C4.Tests.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c4.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFEC14-614D-422D-9EB2-BA1672C409DD}|P3C4.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c4\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CABFEC14-614D-422D-9EB2-BA1672C409DD}|P3C4.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P3C4.Tests.csproj",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4.Tests\\P3C4.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\P3C4.Tests\\P3C4.Tests.csproj",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4.Tests\\P3C4.Tests.csproj",
+              "RelativeToolTip": "..\\P3C4.Tests\\P3C4.Tests.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T10:36:19.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\P3C4.Tests\\UnitTest1.cs",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\P3C4.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:20:00.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P3C4.csproj",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\P3C4.csproj",
+              "RelativeDocumentMoniker": "P3C4.csproj",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\P3C4.csproj",
+              "RelativeToolTip": "P3C4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T15:24:57.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-29T15:15:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:49:22.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

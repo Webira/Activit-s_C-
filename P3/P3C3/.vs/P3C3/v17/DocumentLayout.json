@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AC3C3B-B1C7-4090-96D3-C5A61D2D1E37}|P3C3.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AC3C3B-B1C7-4090-96D3-C5A61D2D1E37}|P3C3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AC3C3B-B1C7-4090-96D3-C5A61D2D1E37}|P3C3.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p3\\p3c3\\p3c3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64AC3C3B-B1C7-4090-96D3-C5A61D2D1E37}|P3C3.csproj|solutionrelative:p3c3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:34:42.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P3C3",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C3\\P3C3.csproj",
+              "RelativeDocumentMoniker": "P3C3.csproj",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P3\\P3C3\\P3C3.csproj",
+              "RelativeToolTip": "P3C3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T12:25:30.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

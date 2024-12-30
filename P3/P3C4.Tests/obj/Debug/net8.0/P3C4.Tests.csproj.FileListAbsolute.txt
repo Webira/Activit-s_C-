@@ -1,0 +1,7 @@
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_P3C4.Tests
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\obj\Debug\net8.0\P3C4.Tests.csproj.AssemblyReference.cache
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\obj\Debug\net8.0\P3C4.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\obj\Debug\net8.0\P3C4.Tests.AssemblyInfoInputs.cache
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\obj\Debug\net8.0\P3C4.Tests.AssemblyInfo.cs
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\obj\Debug\net8.0\P3C4.Tests.csproj.CoreCompileInputs.cache
+F:\Projets_NET\Openclassrooms_exos_C#\P3\P3C4.Tests\obj\Debug\net8.0\P3C4.Tests.sourcelink.json
