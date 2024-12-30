@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8200F8-1984-41B9-AB3A-C3D0B7EE0A36}|P2C3.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p2\\p2c3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8200F8-1984-41B9-AB3A-C3D0B7EE0A36}|P2C3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:05:54.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C4.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D027D45D-37ED-4695-B8F1-1EE5C378A8F5}|P2C4.3.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p2\\p2c4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D027D45D-37ED-4695-B8F1-1EE5C378A8F5}|P2C4.3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D027D45D-37ED-4695-B8F1-1EE5C378A8F5}|P2C4.3.csproj|f:\\projets_net\\openclassrooms_exos_c#\\p2\\p2c4.3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D027D45D-37ED-4695-B8F1-1EE5C378A8F5}|P2C4.3.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C4.3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C4.3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:01:45.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C4.3\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "F:\\Projets_NET\\Openclassrooms_exos_C#\\P2\\P2C4.3\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-06T14:01:10.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
